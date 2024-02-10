@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AM_Application_Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AM_Application_Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AM_Application_Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AM_Application_Core/1.0.0": {
+      "type": "project",
+      "path": "../AM_Application_Core/AM_Application_Core.csproj",
+      "msbuildProject": "../AM_Application_Core/AM_Application_Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AM_Application_Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/chayma2/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/chayma2/Desktop/4se2/Semestre_2/DOTNET/AM/AM.console/AM.console.csproj",
+      "projectName": "AM.console",
+      "projectPath": "/Users/chayma2/Desktop/4se2/Semestre_2/DOTNET/AM/AM.console/AM.console.csproj",
+      "packagesPath": "/Users/chayma2/.nuget/packages/",
+      "outputPath": "/Users/chayma2/Desktop/4se2/Semestre_2/DOTNET/AM/AM.console/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/chayma2/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/chayma2/Desktop/4se2/Semestre_2/DOTNET/AM/AM_Application_Core/AM_Application_Core.csproj": {
+              "projectPath": "/Users/chayma2/Desktop/4se2/Semestre_2/DOTNET/AM/AM_Application_Core/AM_Application_Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

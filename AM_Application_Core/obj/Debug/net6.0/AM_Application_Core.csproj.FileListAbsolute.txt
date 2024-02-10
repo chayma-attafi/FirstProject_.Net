@@ -1,0 +1,12 @@
+/Users/chayma2/Desktop/4se2/Semestre_2/DOTNET/AM/AM_Application_Core/bin/Debug/net6.0/AM_Application_Core.deps.json
+/Users/chayma2/Desktop/4se2/Semestre_2/DOTNET/AM/AM_Application_Core/bin/Debug/net6.0/AM_Application_Core.dll
+/Users/chayma2/Desktop/4se2/Semestre_2/DOTNET/AM/AM_Application_Core/bin/Debug/net6.0/AM_Application_Core.pdb
+/Users/chayma2/Desktop/4se2/Semestre_2/DOTNET/AM/AM_Application_Core/obj/Debug/net6.0/AM_Application_Core.csproj.AssemblyReference.cache
+/Users/chayma2/Desktop/4se2/Semestre_2/DOTNET/AM/AM_Application_Core/obj/Debug/net6.0/AM_Application_Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chayma2/Desktop/4se2/Semestre_2/DOTNET/AM/AM_Application_Core/obj/Debug/net6.0/AM_Application_Core.AssemblyInfoInputs.cache
+/Users/chayma2/Desktop/4se2/Semestre_2/DOTNET/AM/AM_Application_Core/obj/Debug/net6.0/AM_Application_Core.AssemblyInfo.cs
+/Users/chayma2/Desktop/4se2/Semestre_2/DOTNET/AM/AM_Application_Core/obj/Debug/net6.0/AM_Application_Core.csproj.CoreCompileInputs.cache
+/Users/chayma2/Desktop/4se2/Semestre_2/DOTNET/AM/AM_Application_Core/obj/Debug/net6.0/AM_Application_Core.dll
+/Users/chayma2/Desktop/4se2/Semestre_2/DOTNET/AM/AM_Application_Core/obj/Debug/net6.0/refint/AM_Application_Core.dll
+/Users/chayma2/Desktop/4se2/Semestre_2/DOTNET/AM/AM_Application_Core/obj/Debug/net6.0/AM_Application_Core.pdb
+/Users/chayma2/Desktop/4se2/Semestre_2/DOTNET/AM/AM_Application_Core/obj/Debug/net6.0/ref/AM_Application_Core.dll
