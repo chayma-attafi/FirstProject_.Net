@@ -56,6 +56,12 @@ namespace AM_Application_Core.Domain
             ManuFactureDate = manuFactureDate;
         }*/
 
+        public override string ToString()
+        {
+            return "Capacity= " + Capacite + "\n" + "PlaneTypee=" + PlaneTypee + "\n" + "ManuFactureDate = " + ManuFactureDate + "\n";
+        }
+
+
 
     }
 }

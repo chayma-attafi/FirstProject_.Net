@@ -1,11 +1,12 @@
-﻿<Properties StartupConfiguration="{5724FA57-A0E8-4BC6-9FAE-C36EF87765A6}|Default">
+﻿<Properties StartupConfiguration="{5724FA57-A0E8-4BC6-9FAE-C36EF87765A6}|Default" GitUserInfo="UsingMD">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AM_Application_Core/Domain/Passenger.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="AM.console/Program.cs" Line="21" Column="1" />
-      <File FileName="AM_Application_Core/Class1.cs" Line="1" Column="1" />
+      <File FileName="AM.console/Program.cs" Line="17" Column="23" />
+      <File FileName="AM_Application_Core/Class1.cs" />
       <File FileName="AM_Application_Core/Domain/Plane.cs" />
-      <File FileName="AM_Application_Core/Domain/Flight.cs" />
+      <File FileName="AM_Application_Core/Domain/Flight.cs" Line="1" Column="1" />
       <File FileName="AM_Application_Core/Domain/Passenger.cs" Line="15" Column="22" />
       <File FileName="AM_Application_Core/Domain/Staff.cs" />
       <File FileName="AM_Application_Core/Domain/Traveller.cs" />
@@ -15,21 +16,19 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AM" expanded="True">
-            <Node name="AM.console" expanded="True" />
+            <Node name="AM.console" expanded="True">
+              <Node name="ConnectedServicesFolder" selected="True" />
+              <Node name="Dependencies" expanded="True" />
+            </Node>
             <Node name="AM_Application_Core" expanded="True">
-              <Node name="Domain" expanded="True">
-                <Node name="Passenger.cs" selected="True" />
-              </Node>
+              <Node name="Domain" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.AM.console PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
 </Properties>

@@ -6,6 +6,7 @@ namespace AM_Application_Core.Interface
 	public interface IFlightMethods
 	{
 		public List<DateTime> GetFlightDates(string destination);
+		public void GetFlights(string filterType, string filterValue);
     }
 }
 

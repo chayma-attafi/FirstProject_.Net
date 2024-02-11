@@ -14,6 +14,16 @@ namespace AM_Application_Core.Domain
 
 		public IList<Passenger> Passengers { get; set; }
 
-	}
+        public override string ToString()
+        {
+			return "Destination = " + Destination + "\n"
+				+ "Departure = " + Departure + "\n"
+				+ "EffectiveArrival = " + EffectiveArrival + "\n"
+				+ "EstimatedDuration = " + EstimatedDuration + "\n"
+				+ "FlightDate = " + FlightDate + "\n";
+        }
+
+
+    }
 }
 
