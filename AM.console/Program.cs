@@ -44,10 +44,35 @@ p1.PassengerType();
 s1.PassengerType();
 t1.PassengerType();
 
-Console.WriteLine("***** GetFlightsDate");
+  
+
 FlightMethods fm = new FlightMethods();
 fm.Flights = TestData.listFlights;
-fm.GetFlightDates("Madrid");
 
+//Tester GetFlightsDate
+Console.WriteLine("***** GetFlightsDate");
+
+foreach (var item in fm.GetFlightDates("Madrid"))
+{
+    Console.WriteLine(item);
+}
+
+
+
+//Tester GetFlights
 Console.WriteLine("***** GetFlights");
 fm.GetFlights("EstimatedDuration", "105");
+
+
+//Tester ShowFlightDetails
+Console.WriteLine("***** ShowFlightDetails");
+fm.ShowFlightDetails(TestData.Airbusplane);
+
+//Tester ProgrammeFlightNumber
+Console.WriteLine("***** ProgrammeFlightNumber");
+//fm.ProgrammeFlightNumber(TestData.);
+
+//Tester DestinationGroupedFlights
+
+Console.WriteLine("***** DestinationGroupedFlights");
+fm.DestinationGroupedFlights();
